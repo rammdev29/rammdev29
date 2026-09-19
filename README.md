@@ -159,10 +159,19 @@ I believe the best way to learn programming is by **building real projects**, so
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/rammdev29/rammdev29/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/rammdev29/rammdev29/pacman-output/pacman-contribution-graph.svg?game=pacman"
+  />
+  <img
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/rammdev29/rammdev29/pacman-output/pacman-contribution-graph.svg?game=pacman"
+  />
 </picture>
 
 ###
