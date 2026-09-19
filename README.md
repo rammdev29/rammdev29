@@ -1,6 +1,6 @@
 # Hi there, I'm Ramm 👋
 
-![Ramm]()
+![Ramm](/img/profile-github.png)
 
 ### 💻 Full-Stack Developer • Lifelong Learner
 
